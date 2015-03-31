@@ -13,5 +13,5 @@
     <preference name="target-device" value="universal" />
     <preference name="ios-statusbarstyle" value="black-opaque" />
     <preference name="android-installLocation" value="auto" />
-    <icon src="res/screen/android/coin.png" platform="android" />
+    <icon src="res/screen/android/images.png" platform="android" />
 </widget>
