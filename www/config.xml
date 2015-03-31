@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="org.traeg.phonegap.FastTip" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Tip-app</name>
+    <description>
+        This app is to help calculate how much to tip a waiter
+    </description>
+    <author email="loris-fo@outlook.com">
+        Loris Fochesato
+    </author>
+    <feature name="http://api.phonegap.com/1.0/device" />
+    <preference name="orientation" value="default" />
+    <preference name="fullscreen" value="true" />
+    <preference name="target-device" value="universal" />
+    <preference name="ios-statusbarstyle" value="black-opaque" />
+    <preference name="android-installLocation" value="auto" />
+    <icon src="res/screen/android/coin.png" platform="android" />
+</widget>
